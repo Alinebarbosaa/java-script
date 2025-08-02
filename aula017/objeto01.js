@@ -6,6 +6,6 @@ let amigo = {nome: 'José',
         this.peso += p
     }}
     amigo.engordar(2)
-    console.log(`${amigo.nome} pesa ${amigo.peso}Kg`)
+    console.log(`${amigo.nome} pesa ${amigo.peso}Kg`)                                             
 
 
